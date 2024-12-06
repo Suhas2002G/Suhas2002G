@@ -1,44 +1,108 @@
-💻 Suhas Shankar Gondukupi
-Frontend Expert | Full Stack Developer | Problem Solver
+<h1 align="center">Hi there! 👋 I'm Suhas Shankar Gondukupi</h1>
 
-🌟 Hello there! I’m Suhas, a passionate and detail-oriented Full Stack Developer dedicated to creating user-friendly, responsive, and dynamic web applications. 
-With proficiency in HTML, CSS, JavaScript, Python, Django, and SQL, I love bringing ideas to life through code and solving real-world problems.
+<p align="center">
+  <strong>Motivated and detail-oriented Full Stack Developer</strong> <br>
+  Passionate about building responsive and user-friendly web applications.
+</p>
 
-🔧 Technical Skills
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: Python, Django
-Database: SQL, MySQL
-Tools & Platforms: VS Code, Git, Notion
-Other Skills: Debugging, Code Optimization
+---
 
+<h2>🚀 About Me</h2>
+<ul>
+  <li>🌱 Currently enhancing my Python expertise to solve real-time problems.</li>
+  <li>🎓 BCA Graduate (8.5 CGPA) from Dr. D Y Patil ACS College, Pune.</li>
+  <li>🏆 Hackathon Winner, IBM certified Python Developer, SQL Intermediate Certified, and passionate lifelong learner.</li>
+</ul>
 
-🏆 Achievements
-    1. 1st Prize Winner: Thunder Bytes Monsoon Hackathon 2024 🏅
-    2. Certified: Master in Frontend Development, SQL Mastery, Generative AI, Python Web Development
-    3. Ranked 3rd: TechnoCase programming exam at IICMR
-    4. NMMS Scholarship Recipient
+---
 
+<h2>💻 Skills & Technologies</h2>
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>HTML, CSS, JavaScript, Bootstrap, React</td>
+    <td>Python, Django, SQL</td>
+    <td>Git, Github, Notion</td>
+  </tr>
+</table>
 
-💡 Notable Projects
-     1. RainyShoppy: An e-commerce platform for monsoon gear with features like user authentication, product listings, cart, and secure payments.
-     2. BudgetBuddy: An Android application for managing budgets, built with Java and Realm database.
-     3. NoBroker Clones: Developed static and responsive clones using HTML, CSS, and Bootstrap.
-     4. Bus Booking System: A dynamic project built with Django, MySQL, and frontend technologies.
+---
 
-     
-📚 Current Learning Goals
-    --> Mastering Python in 20 days to solve real-world problems effectively.
-    --> Developing a Healthcare Management System with appointment booking and payment integration.
-    --> Exploring advanced full-stack concepts for professional growth.
+<h2>📚 Projects</h2>
 
-    
-🌟 Interests & Hobbies
-    --> Exploring new technologies and ideas
-    --> Playing cricket 🏏
-    --> Engaging in coding challenges and hackathons
+<h3>🌂 RainyShoppy</h3>
+<p>
+  RainyShoppy is an e-commerce platform designed to sell rain gear like umbrellas and raincoats. It provides a seamless shopping experience with the following features:
+</p>
+<ul>
+  <li><strong>User Authentication:</strong> Users can register, log in, and manage their profiles.</li>
+  <li><strong>Product Listings:</strong> Browse through a wide range of monsoon products with detailed descriptions.</li>
+  <li><strong>Shopping Cart:</strong> Add products to the cart and proceed to checkout.</li>
+  <li><strong>Secure Payment Integration:</strong> Allows users to pay securely online.</li>
+</ul>
+<p><strong>Tech Stack:</strong> HTML, CSS, Bootstrap, Python, Django, MySQL</p>
+<!-- <p><a href="https://github.com/YourRepoLink">Explore RainyShoppy</a></p> -->
 
-    
-🌐 Connect With Me
-Feel free to reach out for collaborations, discussions, or exciting opportunities!
-📧 Email: suhas8838@gmail.com
-🌐 Portfolio: Coming Soon!
+---
+
+<h3>📝 Blog-Crafter</h3>
+<p>
+  Blog-Crafter is a blogging platform that allows users to create, edit, and publish blog posts. It focuses on simplicity and efficiency, making it suitable for both casual and professional bloggers.
+</p>
+<ul>
+  <li><strong>Features:</strong></li>
+  <ul>
+    <li>Write and format blog posts with an easy-to-use editor.</li>
+    <li>Automatically store the blog title, content, and submission time in the database.</li>
+    <li>Responsive design for an optimal experience across devices.</li>
+  </ul>
+  <li><strong>Tech Stack:</strong> HTML, CSS, JavaScript, Python, Django, MySQL</li>
+</ul>
+<!-- <p><a href="https://github.com/YourRepoLink">Explore Blog-Crafter</a></p> -->
+
+---
+
+<h3>🌐 NoBroker Clone</h3>
+<p>
+  A static and responsive clone of the popular property listing website, NoBroker, created to replicate its core functionality and design.
+</p>
+<ul>
+  <li><strong>Static Version:</strong> Features pages like Home, Buy House, Sell Property, About Us, and Contact Us.</li>
+  <li><strong>Responsive Version:</strong> Enhanced with Bootstrap for mobile and desktop compatibility.</li>
+  <li><strong>Purpose:</strong> Demonstrates proficiency in frontend development and responsive design.</li>
+</ul>
+<p><strong>Tech Stack:</strong> HTML, CSS, Bootstrap</p>
+<!-- <p><a href="https://github.com/YourRepoLink">Explore NoBroker Clone</a></p> -->
+
+---
+
+<h2>🏆 Achievements</h2>
+<ul>
+  <li>1st Prize in Thunder Bytes Monsoon Hackathon 2024</li>
+  <li>3rd Rank in TechnoCase Programming Exam</li>
+  <li>NMMS Scholarship Recipient</li>
+</ul>
+
+---
+
+<h2>💡 Hobbies</h2>
+<ul>
+  <li>Playing cricket 🏏</li>
+  <li>Exploring new technologies 🌐</li>
+</ul>
+
+---
+
+<h2>📫 Let's Connect</h2>
+<p>
+  <a href="www.linkedin.com/in/suhas8838">LinkedIn</a> | 
+  <a href="suhas8838@gmail.com">Email</a>
+</p>
+
+<hr>
+
+<p align="center"><em>✨ "Coding is not just a skill, it's an art of problem-solving." ✨</em></p>
