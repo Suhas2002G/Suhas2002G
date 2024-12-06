@@ -21,11 +21,13 @@
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
+    <th>Framework</th>
     <th>Tools</th>
   </tr>
   <tr>
-    <td>HTML, CSS, JavaScript, Bootstrap, React</td>
+    <td>HTML, CSS, JavaScript, React</td>
     <td>Python, Django, SQL</td>
+    <td>Bootstrap, Tailwind CSS</td>
     <td>Git, Github, Notion</td>
   </tr>
 </table>
