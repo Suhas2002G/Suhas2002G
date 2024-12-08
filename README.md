@@ -55,6 +55,5 @@
 
 
 
-<hr>
 
 <p align="center"><em>✨ "Coding is not just a skill, it's an art of problem-solving." ✨</em></p>
