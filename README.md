@@ -53,11 +53,7 @@
 
 ---
 
-<h2>📫 Let's Connect</h2>
-<p>
-  <a href="www.linkedin.com/in/suhas8838">LinkedIn</a> | 
-  
-</p>
+
 
 <hr>
 
