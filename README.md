@@ -38,16 +38,17 @@
 
 <h2>🏆 Achievements</h2>
 <ul>
+  <li>Winner, Jingle Byte Christmas Coding Competition 2024 </li>
   <li>1st Prize in Thunder Bytes Monsoon Hackathon 2024</li>
   <li>3rd Rank in TechnoCase Programming Exam</li>
-  <li>NMMS Scholarship Recipient</li>
+  
 </ul>
 
 ---
 
 <h2>💡 Hobbies</h2>
 <ul>
-  <li>Playing cricket 🏏</li>
+  <li>Playing Chess 🏏</li>
   <li>Exploring new technologies 🌐</li>
 </ul>
 
