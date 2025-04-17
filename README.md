@@ -21,14 +21,16 @@
   <tr>
     <th>Frontend</th>
     <th>Backend</th>
+    <th>Database</th>
     <th>Framework</th>
     <th>Tools</th>
   </tr>
   <tr>
     <td>HTML, CSS, JavaScript, React</td>
-    <td>Python, Django, SQL</td>
+    <td>Python, Django, Flask</td>
+    <td>MySQL, SQLite, PostgresSQL</td>
     <td>Bootstrap, Tailwind CSS</td>
-    <td>Git, Github, Notion</td>
+    <td>Git, Github, Postman, Notion</td>
   </tr>
 </table>
 
