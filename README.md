@@ -1,7 +1,5 @@
 #  Hi there! 👋 I'm Suhas Shankar Gondukupi
 
-## 🚀 About Me
-
 I am a **Full Stack Developer** | **IBM Certified** 🎓 | **Python & Django Backend Specialist** 🛠️ | **AWS Cloud Explorer** ☁️ | **2x Hackathon Champion** 🏆
 
 ---
