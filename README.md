@@ -4,34 +4,6 @@ I am a **Full Stack Developer** | **IBM Certified** 🎓 | **Python & Django Bac
 
 ---
 
-### 🔍 What I Do
-
-- Build **scalable**, **secure**, and **high-performing** web applications
-- Specialize in **Django** for backend development and crafting **RESTful APIs**
-- Integrate robust relational databases like **SQL** for seamless functionality
-- Thrive in fast-paced, innovative environments solving complex challenges
-- Focus on creative and efficient solutions driven by **problem-solving**, **innovation**, and **continuous learning**
-
----
-
-### 🎯 My Goal
-
-To leverage cutting-edge technologies and develop impactful digital solutions that **drive success** and deliver real value.
-
----
-## 💼 Professional Experience
-
-**Full Stack Developer**  
-AYC Analytics Pvt Ltd | Apr 2025 – Present | Pune, Maharashtra
-
-**Full Stack Developer (Intern)**  
-Vibgyor Advisors | Jan 2025 – Mar 2025
-
-**SDE Intern**  
-Bluestock™🔺 | Nov 2024 – Dec 2024
-
-
-
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -76,11 +48,44 @@ Bluestock™🔺 | Nov 2024 – Dec 2024
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas2002G&layout=compact&theme=radical" alt="Top Languages" /> -->
 </div>
 
+
+## 💼 Professional Experience
+
+**Full Stack Developer**  
+AYC Analytics Pvt Ltd | Apr 2025 – Present | Pune, Maharashtra
+
+**Full Stack Developer (Intern)**  
+Vibgyor Advisors | Jan 2025 – Mar 2025
+
+**SDE Intern**  
+Bluestock™🔺 | Nov 2024 – Dec 2024
+
+
+
 ## 🏆 Achievements
 
 - 2x Hackathon Winner
 - IBM Certified Developer
 - Completed Advanced Full Stack Web Development course
+
+---
+
+### 🔍 What I Do
+
+- Build **scalable**, **secure**, and **high-performing** web applications
+- Specialize in **Django** for backend development and crafting **RESTful APIs**
+- Integrate robust relational databases like **SQL** for seamless functionality
+- Thrive in fast-paced, innovative environments solving complex challenges
+- Focus on creative and efficient solutions driven by **problem-solving**, **innovation**, and **continuous learning**
+
+---
+
+### 🎯 My Goal
+
+To leverage cutting-edge technologies and develop impactful digital solutions that **drive success** and deliver real value.
+
+---
+
 
 
 ## 📫 Let's Connect!
