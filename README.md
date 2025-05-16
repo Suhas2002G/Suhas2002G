@@ -1,4 +1,4 @@
-#  Hi there! 👋 I'm Suhas Shankar Gondukupi
+<h1 align="center">Hi there! 👋 I'm Suhas Shankar Gondukupi</h1>
 
 I am a **Full Stack Developer** | **IBM Certified** 🎓 | **Python & Django Backend Specialist** 🛠️ | **AWS Cloud Explorer** ☁️ | **2x Hackathon Champion** 🏆
 
