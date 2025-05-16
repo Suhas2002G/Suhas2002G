@@ -4,6 +4,16 @@ I am a **Full Stack Developer** | **IBM Certified** 🎓 | **Python & Django Bac
 
 ---
 
+### 🔍 What I Do
+
+- Build **scalable**, **secure**, and **high-performing** web applications
+- Specialize in **Django** for backend development and crafting **RESTful APIs**
+- Integrate robust relational databases like **SQL** for seamless functionality
+- Thrive in fast-paced, innovative environments solving complex challenges
+- Focus on creative and efficient solutions driven by **problem-solving**, **innovation**, and **continuous learning**
+
+---
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -70,15 +80,7 @@ Bluestock™🔺 | Nov 2024 – Dec 2024
 
 ---
 
-### 🔍 What I Do
 
-- Build **scalable**, **secure**, and **high-performing** web applications
-- Specialize in **Django** for backend development and crafting **RESTful APIs**
-- Integrate robust relational databases like **SQL** for seamless functionality
-- Thrive in fast-paced, innovative environments solving complex challenges
-- Focus on creative and efficient solutions driven by **problem-solving**, **innovation**, and **continuous learning**
-
----
 
 ### 🎯 My Goal
 
