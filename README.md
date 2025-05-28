@@ -1,10 +1,20 @@
+<div disply=inline-block>
 <h1 align="center">Hi there! 👋 I'm Suhas Shankar Gondukupi</h1>
+
+</div>
 
 **IBM Certified Full Stack Developer** |  **Python & Django Backend Specialist**  |  **AWS Cloud Explorer**  |  **2x Hackathon Champion** 🏆
 
----
 
-### 🔍 What I Do
+
+
+
+
+---
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=suhasg.suhasg" alt="Visitor badge" />
+</p>
+### 🔍 What I Do  
 
 - Build **scalable**, **secure**, and **high-performing** web applications
 - Specialize in **Django** for backend development and crafting **RESTful APIs**
